@@ -10,7 +10,7 @@ redirect_from:
 
 ## About Me
 
-I'm a junior student from [School of School of Journalism and Communication](https://jc.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn). I majored in News Reporting and Writing, and also minored in Photography and Advertising Planning.
+I'm a junior student from [School of Journalism and Communication](https://jc.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn). I majored in News Reporting and Writing, and also minored in Photography and Advertising Planning.
 
 As a journalism major, I am passionate about storytelling and communication. I have taken various courses on journalism, media, and communication, which have sharpened my critical thinking and analytical skills. Additionally, I have also participated in various internships and projects, where I have gained practical experience in news reporting, editing, and multimedia production.
 
