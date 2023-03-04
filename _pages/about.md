@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Brief Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Brief Introduction
+## About Me
 ---
 I'm a junior student from [School of School of Journalism and Communication](https://jc.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn). I majored in News Reporting and Writing, and also minored in Photography and Advertising Planning.
 
@@ -18,9 +18,9 @@ Apart from my academic pursuits, I am also an active member of several clubs and
 
 Through this website, I hope to showcase my academic and professional accomplishments, as well as share my perspectives and insights on journalism, media, and communication. Thank you for visiting my website, and please feel free to reach out to me if you have any questions or comments.
 
-# Contact Information
+## Contact Information
 ---
-- [Email](1441568842@qq.com) 
+- [Email](mailto:1441568842@qq.com) 
 - [Wechat](../images/wechat.png)
 
 
