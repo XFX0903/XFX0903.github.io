@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XFX0903 / Site Title"
+title                    : "XFX0903 / Homepage"
 title_separator          : "-"
-name                     : &name "XFX0903"
-description              : &description "欢迎来到小飞象的世界"
+name                     :  "XFX0903"
+description              :  "A happy life college student who is studying journalism"
 url                      : https://XFX0903.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XFX0903/XFX0903.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "XFX0903"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "XFX0903"
   google_plus      :
   keybase          :
   instagram        :
