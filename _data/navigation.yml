@@ -4,10 +4,10 @@ main:
     url: /personal works/
 
   - title: "WeChat Public"
-    url: /talks/    
+    url: /wechat public/    
 
   - title: "CV"
-    url: /portfolio/
+    url: /CV/
     
   - title: "Recent Projects"
-    url: /year-archive/
+    url: /recent projetcs/
