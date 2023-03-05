@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Personal Works"
-    url: /Personal Works/
+    url: /publications/
 
   - title: "WeChat Public"
-    url: /WeChat Public/    
+    url: /talks/    
 
   - title: "CV"
-    url: /cv/
+    url: /portfolio/
     
   - title: "Recent Projects"
-    url: /Recent Projects/
+    url: /year-archive/
