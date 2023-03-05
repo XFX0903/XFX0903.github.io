@@ -28,5 +28,5 @@ author_profile: true
 ## ✒ Poster Design Work
 &emsp;**《新闻传播名词-舆论Public Opinion》**
 - Time：2021/10/28
-- Link：
+- Link：[《新闻传播名词-舆论Public Opinion》](../images/舆论海报.png)
 > This is a poster of the news communication term "public opinion" drawn by me using Ai software. The first thing I associate with "public opinion" is that a lot of people open their mouths to speak and eventually form a collection of opinions, so the background of the poster design consists of many speakers, and the core part is a process of "opening the voice to speak", presenting the great power of a group of people's voices. 
