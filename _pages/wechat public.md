@@ -15,5 +15,5 @@ author_profile: true
 
 ## ✒ Other Wechat Public Work
 &emsp;**《经纬潮流元宇宙访问权限开启》**
-- Time：2023/01/16
-- Link：
+- Time：2022/04/29
+- Link：[《经纬潮流元宇宙访问权限开启》](../assets/李蔼洁 微信公众号作品《经纬潮流元宇宙访问权限开启》.pdf)
