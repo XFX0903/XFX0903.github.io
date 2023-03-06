@@ -7,7 +7,7 @@ main:
     url: /wechat public/    
 
   - title: "CV"
-    url: /CV/
+    url: /cv intro/
     
   - title: "Recent Projects"
     url: /recent projetcs/
