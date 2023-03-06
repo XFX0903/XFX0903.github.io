@@ -21,7 +21,7 @@ author_profile: true
 ## ✒ Advertising Creative Planning Work
 &emsp;**《超级植物-逃离无趣生活》**
 - Time：2022/12/05
-- Link：[《超级植物-逃离无趣生活》](../assets/李蔼洁1 广告创意策划作品《超级植物-逃离无趣生活》.pdf)
+- Link：[《超级植物-逃离无趣生活》](../assets/策划4C.pdf)
 > This ad creative planning is the result of a group assignment. I was responsible for three major parts of this collaboration: data collection, copywriting, and creative planning. It was my first time to learn about advertising planning, and I made a lot of bold and interesting attempts, such as linking the metaphorical story of canned sardines with canned green plants, running a dumbing down contest in a busy shopping mall and collaborating with interesting artists to express our brand attitude.
 
 
