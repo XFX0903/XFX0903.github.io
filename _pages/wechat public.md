@@ -8,7 +8,7 @@ author_profile: true
 
 ## 💻 Personal Wechat Public
 &emsp;**如果不是吃荔枝**
-![个人公众号如果不是吃荔枝](../images/公众号.png)
+<img src='../images/公众号.png' width = 50%>
 - Start Time：2023/01/16
 - Article Link：[《欢迎关注“如果不是吃荔枝”》](https://mp.weixin.qq.com/s/1WLU8D43uaqtdg9LMwedmA)[《小飞象的一月总结》](https://mp.weixin.qq.com/s/lUONFGRcEBQS0b6r-3qaVA)[《小飞象的上海旅行总结》](https://mp.weixin.qq.com/s/e0z4xhN8tB2hOtV7Jx5oOg)
 - Way to follow：[如果不是吃荔枝](../images/公众号二维码.png)
