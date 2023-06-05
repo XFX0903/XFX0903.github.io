@@ -19,13 +19,13 @@ author_profile: true
 > This ad creative planning is the result of a group assignment. I was responsible for three major parts of this collaboration: data collection, copywriting, and creative planning. It was my first time to learn about advertising planning, and I made a lot of bold and interesting attempts, such as linking the metaphorical story of canned sardines with canned green plants, running a dumbing down contest in a busy shopping mall and collaborating with interesting artists to express our brand attitude.
 
 ## ✒ Video Choreography Work
-&emsp;**《此间少年 Young Man in NJU》**
+&emsp;**《此间少年》**
 - Time：2021/12/03
 - Link: [《此间少年》MV](https://www.bilibili.com/video/BV1Ff4y1T7uU/?spm_id_from=333.337.search-card.all.click&vd_source=d5951a05a19895aff03fd6a2926c7ed7)
 > This music video was produced by me as the general director for the 40th Campus Top Ten Singers Competition of Nanjing University, which wanted to show the heritage and innovation of Nanjing University in the past 120 years through the comparison of two campuses in parallel time. I was mainly responsible for the script writing, splitting plan and editing plan of the video.
 
 ## ✒ Quantitative Research Work
-&emsp;**《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究 Study on the influencing factors of willingness to pay in the new mainline activity of For All Time from the perspective of Expectation Confirmation modelU》**
+&emsp;**《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》**
 - Time：2022/06/05
 - Link: [《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》](../assets/Quantitive.pdf)
 > This was a group assignment for my social research methods course, in which I was responsible for the contextualized presentation, confirmation of theoretical models and experimental hypotheses, questionnaire organization and data cleaning, data analysis (mainly on validity, reliability, and correlation) and reporting using STATA and SPSS, and conclusions and shortcomings.
