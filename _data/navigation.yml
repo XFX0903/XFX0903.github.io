@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Personal Works"
+  - title: "News Works"
     url: /personal works/
 
-  - title: "WeChat Public"
-    url: /wechat public/    
+  - title: "Code Attempt"
+    url: /Code Attempt/    
 
   - title: "CV"
     url: /cv intro/
