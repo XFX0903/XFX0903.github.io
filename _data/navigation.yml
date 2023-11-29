@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Code Attempt"
+    url: /code attempt/  
+    
   - title: "News Works"
     url: /personal works/
-
-  - title: "Code Attempt"
-    url: /Code Attempt/    
 
   - title: "CV"
     url: /cv intro/
