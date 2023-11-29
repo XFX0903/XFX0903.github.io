@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Personal Works"
-permalink: /personal works/
+title: "Code Attempt"
+permalink: /code attempt/
 author_profile: true
 ---
 
