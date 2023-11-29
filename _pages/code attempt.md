@@ -16,6 +16,6 @@ author_profile: true
 &emsp;**《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》**
 - Time：2023/06/05
 - Link：[《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》](../assets/  .pdf)
-> Skill: STATA & SPSS
-> > I was mainly responsible for the theoretical model confirmation, questionnaire organization and data part of it. In the specific quantitative processing, I uesd STATA amd SPSS to calcultate the validity, reliability and revelance of the data for the needs of experimental hypothess, and to draw conclusions about the social research on kryptonite willingness of ethereal games.
+- Skill: STATA & SPSS
+>  I was mainly responsible for the theoretical model confirmation, questionnaire organization and data part of it. In the specific quantitative processing, I uesd STATA amd SPSS to calcultate the validity, reliability and revelance of the data for the needs of experimental hypothess, and to draw conclusions about the social research on kryptonite willingness of ethereal games.
 
