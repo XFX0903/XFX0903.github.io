@@ -21,8 +21,8 @@ author_profile: true
 - - "Exploring Revolutionary Memories" social practice ———— 2021/7/17-2021/8/15
 
 ## 🔧 Skills
+- Coding：Python/STATA/SPSS
 - Adobe Sortware：PS/PR/AI/AU
 - Digital People and Virtual Production：Character Creator/iClone/Unreal Engine
 - English：CET6
 - Mandarin：Putonghua Level II, Grade A
-
