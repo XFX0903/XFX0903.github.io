@@ -12,6 +12,8 @@ author_profile: true
 - Link: [《Imbalance Price Prediction Moder For Used Sailbotas》](../assets/2332913.pdf)
 - Skill: Python & Basic AI Knowledge & Machine Learning & Mathematical Modeling
 > With my friends, we participated in the Modeling Mathematics Competition 2023. In the used boats price prediction model, we first captured a large amount of transaction data from domestic and international second-hand ship trading platforms and cleaned the data; second, we created an imbalance price prediction model, including Auto-Encoder, Time-Encoder, Self-attention Feature Fusion, and XGBoost, and used the dataset to train our model; lastly, we utilized the Model to the future price of second-hand ships prediction with an accuracy of more than 90%.
+> ![image](https://github.com/XFX0903/XFX0903.github.io/assets/126446316/d2c6b9b3-b51a-4d20-a25d-ce497dc07743)
+
 
 ## 💻 Computational Communication Work
 &emsp;**《社会性别视角下微博热搜词条中女性话题的情感分析研究》**
