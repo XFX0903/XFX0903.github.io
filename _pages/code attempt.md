@@ -14,9 +14,9 @@ author_profile: true
 > With my friends, we participated in the Modeling Mathematics Competition 2023. In the used boats price prediction model, we first captured a large amount of transaction data from domestic and international second-hand ship trading platforms and cleaned the data; second, we created an imbalance price prediction model, including Auto-Encoder, Time-Encoder, Self-attention Feature Fusion, and XGBoost, and used the dataset to train our model; lastly, we utilized the Model to the future price of second-hand ships prediction with an accuracy of more than 90%.
 
 ## 💻 Computational Communication Work
-&emsp;**《  》**
+&emsp;**《社会性别视角下微博热搜词条中女性话题的情感分析研究》**
 - Time: 2023/08/20
-- Link: [《》](../assets/.pdf)
+- Link: [社会性别视角下微博热搜词条中女性话题的情感分析研究](file:///D:/python/WOMEN%20NEWS/%E7%A4%BE%E4%BC%9A%E6%80%A7%E5%88%AB%E8%A7%86%E8%A7%92%E4%B8%8B%E5%BE%AE%E5%8D%9A%E7%83%AD%E6%90%9C%E8%AF%8D%E6%9D%A1%E4%B8%AD%E5%A5%B3%E6%80%A7%E8%AF%9D%E9%A2%98%E7%9A%84%E6%83%85%E6%84%9F%E5%88%86%E6%9E%90%E7%A0%94%E7%A9%B6.html)
 - Skill: Python
 > When combining my studies in communication with data, we tried to algorithmically analyze the sentiments of the general public under the news about women in hot searches, and I was responsible for the code part of it. I used the SnowNLP algorithm for sentiment analysis, and bubbled-sorted the calculated sentiment results from the headlines and comments of all the news stories, and used the matplotlib.pyplot library to plot scatter plots to form a more visual representation of the results.
 
