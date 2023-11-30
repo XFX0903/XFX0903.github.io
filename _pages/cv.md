@@ -10,7 +10,7 @@ author_profile: true
 - School of Journalism and Communication, Nanjing University, 2020-2024
 
 ## 👔 Internship
-- Shanghai Disney Resort ———— Creative, Marketing
+- Shanghai Disney Resort ———— Marketing Creative, 2023/6/29-2023/10/20
 
 ## 🚩 Associations and Organizations Experience
 - Editorial Department, School of Journalism and Communication ———— Responsible Editor
