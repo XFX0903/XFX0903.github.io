@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "⌨ Code Attempt"
 permalink: /code attempt/
 author_profile: true
 ---
