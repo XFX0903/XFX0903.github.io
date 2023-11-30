@@ -14,7 +14,7 @@ author_profile: true
 > With my friends, we participated in the Modeling Mathematics Competition 2023. In the used boats price prediction model, we first captured a large amount of transaction data from domestic and international second-hand ship trading platforms and cleaned the data; second, we created an imbalance price prediction model, including Auto-Encoder, Time-Encoder, Self-attention Feature Fusion, and XGBoost, and used the dataset to train our model; lastly, we utilized the Model to the future price of second-hand ships prediction with an accuracy of more than 90%.
 
 ## 💻 Computational Communication Work
-&emsp;**《》**
+&emsp;**《  》**
 - Time: 2023/08/20
 - Link: [《》](../assets/.pdf)
 - Skill: Python
