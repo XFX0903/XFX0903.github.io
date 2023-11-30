@@ -24,13 +24,6 @@ author_profile: true
 - Link: [《此间少年》MV](https://www.bilibili.com/video/BV1Ff4y1T7uU/?spm_id_from=333.337.search-card.all.click&vd_source=d5951a05a19895aff03fd6a2926c7ed7)
 > This music video was produced by me as the general director for the 40th Campus Top Ten Singers Competition of Nanjing University, which wanted to show the heritage and innovation of Nanjing University in the past 120 years through the comparison of two campuses in parallel time. I was mainly responsible for the script writing, splitting plan and editing plan of the video.
 
-## ✒ Quantitative Research Work
-&emsp;**《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》**
-- Time：2022/06/05
-- Link: [《期望确认模型视角下乙女游戏玩家氪金意愿的影响因素研究》](../assets/Quantitive.pdf)
-> This was a group assignment for my social research methods course, in which I was responsible for the contextualized presentation, confirmation of theoretical models and experimental hypotheses, questionnaire organization and data cleaning, data analysis (mainly on validity, reliability, and correlation) and reporting using STATA and SPSS, and conclusions and shortcomings.
-
-
 ## ✒ Curatorial Work
 &emsp;**《流动的盛宴 Behind the Feast》**
 - Time：2023/01/08
