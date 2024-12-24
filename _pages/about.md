@@ -10,7 +10,7 @@ redirect_from:
 
 ## 🙋‍♀️ About Me
 
-I am now attending the School of Information Management at Nanjing University. Beforehand, I was a junior student from [School of Journalism and Communication](https://jc.nju.edu.cn), [Nanjing University](https://www.nju.edu.cn). I majored in News Reporting and Writing, and also minored in Photography and Advertising Planning.
+I am now attending the [School of Information Management](https://im.nju.edu.cn/main.htm) at [Nanjing University](https://www.nju.edu.cn). Beforehand, I was a junior student from [School of Journalism and Communication](https://jc.nju.edu.cn), Nanjing University. I majored in News Reporting and Writing, and also minored in Photography and Advertising Planning.
 
 As a journalism major, I am passionate about storytelling and communication. I have taken a variety of courses on journalism, media and communication that have sharpened my critical thinking and analytical skills. In addition, I have participated in various internships and programs to gain hands-on experience in news reporting, editing and multimedia production.
 
