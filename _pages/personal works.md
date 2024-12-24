@@ -5,6 +5,12 @@ permalink: /personal works/
 author_profile: true
 ---
 
+## 📕 Social Media Platform
+&emsp;**《小红书-如果不是吃荔枝》**
+- Time：2023/12-So far
+- Link：[如果不是吃荔枝](https://www.xiaohongshu.com/user/profile/5f2c49810000000001008b38?xsec_token=YBaXnpcbJ2Rpuw0I8qfollTkxZ6av-Jlo11uFkzPrM-Sg=&xsec_source=app_share&xhsshare=CopyLink&appuid=5f2c49810000000001008b38&apptime=1735023206&share_id=86565561166848c5bffe1791f6dae0c9)
+> This is my self-media account, as a school food blogger to record the food around the school, independent photography and copywriting. So far I produced over 100 pieces of work while the account has 350 followers and over 2000 likes.
+
 ## 📷 Poster Production Work
 &emsp;**《上海迪士尼度假区市场部创意产出》**
 - Time：2023/06/-2023/10
@@ -32,7 +38,7 @@ author_profile: true
 - Link: [《此间少年》MV](https://www.bilibili.com/video/BV1Ff4y1T7uU/?spm_id_from=333.337.search-card.all.click&vd_source=d5951a05a19895aff03fd6a2926c7ed7)
 > This music video was produced by me as the general director for the 40th Campus Top Ten Singers Competition of Nanjing University, which wanted to show the heritage and innovation of Nanjing University in the past 120 years through the comparison of two campuses in parallel time. I was mainly responsible for the script writing, splitting plan and editing plan of the video.
 
-## 📕 Interview Work
+## 🎤 Interview Work
 &emsp;**《高中生余澜与她的性教育实践》**
 - Time：2023/01/27
 - Link：[《高中生余澜与她的性教育实践》](../assets/李蔼洁 采访作品《高中生余澜与她的性教育实践》.pdf)
