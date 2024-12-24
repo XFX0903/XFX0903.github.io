@@ -8,13 +8,13 @@ author_profile: true
 
 ### 📖 Books to Read
 - 《Metaphors we live by》
-- 《Information Management》
 
 ### 📝 Assignments to Complish
-- Prepare for graduate school
-- Conclude intern experience
+- Weekly Seminar
+- Internship
 - Prepare for thesis
 
 ### 💡Daily Tasks 
 - Swimming 
 - Vlogging
+- Writing Journals
