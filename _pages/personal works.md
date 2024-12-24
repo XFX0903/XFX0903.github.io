@@ -8,7 +8,7 @@ author_profile: true
 ## ✏ Poster Production Work
 &emsp;**《经纬Club公众号》**
 - Time：2022/04/30
-- Link：[《经纬潮流元宇宙访问权限开启》]([https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ])
+- Link：[《经纬潮流元宇宙访问权限开启》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
 - Link：[《Hey bro! | 经纬JINGWE 2022SS 新品发布》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
 > This ad creative planning is the result of a group assignment. I was responsible for three major parts of this collaboration: data collection, copywriting, and creative planning. It was my first time to learn about advertising planning, and I made a lot of bold and interesting attempts, such as linking the metaphorical story of canned sardines with canned green plants, running a dumbing down contest in a busy shopping mall and collaborating with interesting artists to express our brand attitude.
 
