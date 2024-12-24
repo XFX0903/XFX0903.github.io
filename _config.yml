@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hi!It's ME!"
+title                    : "Hi! It's ME!"
 title_separator          : "-"
 name                     :  "XFX0903"
-description              :  "A happy life college student who is studying journalism"
+description              :  "Enjoying life now"
 url                      : https://XFX0903.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "XFX0903/XFX0903.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aijie Li"
   avatar           : "XFX.jpg"
-  bio              : "A graduate student from School of Information Management and a junior student from School of Journalism and Communication, Nanjing University"
+  bio              : "Information Management & Journalism and Communication "
   location         : "Nanjing,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
