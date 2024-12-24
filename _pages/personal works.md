@@ -5,14 +5,14 @@ permalink: /personal works/
 author_profile: true
 ---
 
+## ✏ Poster Production Work
+&emsp;**《经纬Club公众号》**
+- Time：2022/04/30
+- Link：[《经纬潮流元宇宙访问权限开启》]([https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ])
+- Link：[《Hey bro! | 经纬JINGWE 2022SS 新品发布》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
+> This ad creative planning is the result of a group assignment. I was responsible for three major parts of this collaboration: data collection, copywriting, and creative planning. It was my first time to learn about advertising planning, and I made a lot of bold and interesting attempts, such as linking the metaphorical story of canned sardines with canned green plants, running a dumbing down contest in a busy shopping mall and collaborating with interesting artists to express our brand attitude.
 
-## ✒ Interview Work
-&emsp;**《高中生余澜与她的性教育实践》**
-- Time：2023/01/27
-- Link：[《高中生余澜与她的性教育实践》](../assets/李蔼洁 采访作品《高中生余澜与她的性教育实践》.pdf)
-> This reportage piece is about a high school girl from Fujian who started a sex education team on her own, aspiring to popularize sex education for teenagers in China. I have always been in close contact with the interviewee and followed up with interviews about the founding of the sex education team, the campus sex education exhibition, the first offline sex education exhibition and the latest offline activities in January this year to complete this interview work.
-
-## ✏ Advertising Creative Planning Work
+## 🧠 Advertising Creative Planning Work
 &emsp;**《超级植物-逃离无趣生活》**
 - Time：2022/12/05
 - Link：[《超级植物-逃离无趣生活》](../assets/策划4C.pdf)
@@ -24,13 +24,19 @@ author_profile: true
 - Link: [《此间少年》MV](https://www.bilibili.com/video/BV1Ff4y1T7uU/?spm_id_from=333.337.search-card.all.click&vd_source=d5951a05a19895aff03fd6a2926c7ed7)
 > This music video was produced by me as the general director for the 40th Campus Top Ten Singers Competition of Nanjing University, which wanted to show the heritage and innovation of Nanjing University in the past 120 years through the comparison of two campuses in parallel time. I was mainly responsible for the script writing, splitting plan and editing plan of the video.
 
+## 🖊 Interview Work
+&emsp;**《高中生余澜与她的性教育实践》**
+- Time：2023/01/27
+- Link：[《高中生余澜与她的性教育实践》](../assets/李蔼洁 采访作品《高中生余澜与她的性教育实践》.pdf)
+> This reportage piece is about a high school girl from Fujian who started a sex education team on her own, aspiring to popularize sex education for teenagers in China. I have always been in close contact with the interviewee and followed up with interviews about the founding of the sex education team, the campus sex education exhibition, the first offline sex education exhibition and the latest offline activities in January this year to complete this interview work.
+
 ## 🎬 Curatorial Work
 &emsp;**《流动的盛宴 Behind the Feast》**
 - Time：2023/01/08
 - Link：[《流动的盛宴 Behind the Feast》](../assets/李蔼洁 策展作品《流动的盛宴Behind the Feast》.pdf)
 > The self-curated online art exhibition "Behind the Feast" is inspired by the stories behind the various feasts in ancient Chinese paintings and calligraphy. Combined with the image understanding skills taught in the Art, Communication and History course, the exhibition attempts to tell the story behind the feast to the audience in a pictorial history.
 
-## 📷 Poster Design Work
+## 📸 Poster Design Work
 &emsp;**《新闻传播名词-舆论Public Opinion》**
 - Time：2021/10/28
 - Link：[《新闻传播名词-舆论Public Opinion》](../images/舆论海报.png)
