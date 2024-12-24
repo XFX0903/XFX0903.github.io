@@ -6,11 +6,19 @@ author_profile: true
 ---
 
 ## ✏ Poster Production Work
+&emsp;**《上海迪士尼度假区市场部创意产出》**
+- Time：2023/06/-2023/10
+- Link1：[《2023达菲月》](https://mp.weixin.qq.com/s/9GQrxo_U2dS2IJwPUxfRQw)
+- Link2：[《2023万圣月》](https://mp.weixin.qq.com/s/1zj4IKTFiAom85x9eStiMA)
+- Link3：[《2023疯狂动物城》](https://mp.weixin.qq.com/s/6vt8Op7YxjGFV0eFcsITMw)
+> This is the promotion of the Shanghai Disney Resort that I worked on during my internship. I was responsible for the creative planning and production of promotional materials, including but not limited to KV shoots, Broll shoots and various other graphic productions.
+
+## ✏ Poster Production Work
 &emsp;**《经纬Club公众号》**
 - Time：2022/04/30
-- Link：[《经纬潮流元宇宙访问权限开启》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
-- Link：[《Hey bro! | 经纬JINGWE 2022SS 新品发布》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
-> This ad creative planning is the result of a group assignment. I was responsible for three major parts of this collaboration: data collection, copywriting, and creative planning. It was my first time to learn about advertising planning, and I made a lot of bold and interesting attempts, such as linking the metaphorical story of canned sardines with canned green plants, running a dumbing down contest in a busy shopping mall and collaborating with interesting artists to express our brand attitude.
+- Link1：[《经纬潮流元宇宙访问权限开启》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
+- Link2：[《Hey bro! | 经纬JINGWE 2022SS 新品发布》](https://mp.weixin.qq.com/s/aor4P3RGWfEE7YM8EzC4zQ)
+> This is a promotional poster and tweet for the clothing brand JINGWE Club, which I worked on for the brand's launch and new product campaign.
 
 ## 🧠 Advertising Creative Planning Work
 &emsp;**《超级植物-逃离无趣生活》**
