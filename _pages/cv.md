@@ -8,6 +8,7 @@ author_profile: true
 
 ## 📕 Education
 - School of Journalism and Communication, Nanjing University, 2020-2024
+- School of Information Management, Nanjing University, 2024-2027
 
 ## 👔 Internship
 - Shanghai Disney Resort ———— Marketing Creative, 2023/6/29-2023/10/20
@@ -26,6 +27,7 @@ author_profile: true
 ## 🔧 Skills
 - Coding：Python/STATA/SPSS
 - Adobe Sortware：PS/PR/AI/AU
+- Shooting
 - Digital People and Virtual Production：Character Creator/iClone/Unreal Engine
 - English：CET6
 - Mandarin：Putonghua Level II, Grade A
