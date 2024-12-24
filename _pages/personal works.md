@@ -11,7 +11,7 @@ author_profile: true
 - Link：[如果不是吃荔枝](https://www.xiaohongshu.com/user/profile/5f2c49810000000001008b38?xsec_token=YBaXnpcbJ2Rpuw0I8qfollTkxZ6av-Jlo11uFkzPrM-Sg=&xsec_source=app_share&xhsshare=CopyLink&appuid=5f2c49810000000001008b38&apptime=1735023206&share_id=86565561166848c5bffe1791f6dae0c9)
 > This is my self-media account, as a school food blogger to record the food around the school, independent photography and copywriting. So far I produced over 100 pieces of work while the account has 350 followers and over 2000 likes.
 
-## 📷 Poster Production Work
+## 📷 Marketing Work
 &emsp;**《上海迪士尼度假区市场部创意产出》**
 - Time：2023/06/-2023/10
 - Link1：[《2023达菲月》](https://mp.weixin.qq.com/s/9GQrxo_U2dS2IJwPUxfRQw)
