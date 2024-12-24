@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "XFX0903 / Homepage"
+title                    : "Hi!It's ME!"
 title_separator          : "-"
 name                     :  "XFX0903"
 description              :  "A happy life college student who is studying journalism"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Aijie Li"
-  avatar           : "XFX.png"
-  bio              : "A junior student from School of Journalism and Communication, Nanjing University"
+  avatar           : "XFX.jpg"
+  bio              : "A graduate student from School of Information Management and a junior student from School of Journalism and Communication, Nanjing University"
   location         : "Nanjing,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
